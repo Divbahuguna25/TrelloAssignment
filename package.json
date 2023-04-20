@@ -1,0 +1,21 @@
+{
+  "name": "TrelloAssignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divbahuguna25/TrelloAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divbahuguna25/TrelloAssignment/issues"
+  },
+  "homepage": "https://github.com/Divbahuguna25/TrelloAssignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
