@@ -17,5 +17,8 @@
   "homepage": "https://github.com/Divbahuguna25/TrelloAssignment#readme",
   "devDependencies": {
     "@playwright/test": "^1.32.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
